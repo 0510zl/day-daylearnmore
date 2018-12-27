@@ -1,0 +1,24 @@
+@import url("reset.css");
+h2{font-family:"Microsoft Yahei";}
+a{color:#918b8a;}
+.more{}
+.colright h2{font-size:18px; color:#221815;  border-bottom:2px solid #acabab; padding-bottom:10px;}
+.colright h2 i{margin-right:4px;}
+.h2-icon{width:6px; height:20px; background-position:0 -20px;}
+.colright ul{ margin-top:48px;}
+.colright li.showmodel{ line-height:28px; font-size:12px; padding-bottom:46px; height:165px;}
+.colright li.showmodel img{float:left;}
+.colright li.showmodel .right-area{float:right; width:527px;}
+.colright li.showmodel h5{font-size:16px; color:#221815; font-weight:bold;}
+.colright li.showmodel .content{text-indent:2em;}
+.colright li.showmodel p{ text-align:right;}
+.colright li.showmodel p span{margin-left:25px;}
+.colright li{border-bottom:1px dashed #acabab;  line-height:40px; height:40px; overflow:hidden; font-size:14px;  color:#918b8a;}
+.colright li .time{float:right;}
+.colright li a.corblue{color:#2192d4;}
+
+.page-area{ text-align:right;  margin-top:30px;}
+.page-area span{ margin-left:29px;}
+
+
+
